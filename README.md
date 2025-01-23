@@ -1,4 +1,4 @@
-## NekoWinTerminal theme
+## windows-terminal 
 
 Now we also have a theme for Windows Terminal
 
