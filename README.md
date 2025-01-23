@@ -12,7 +12,7 @@ Now we also have a theme for Windows Terminal
       <img src="./img/nekonight_wt_moon.jpg" />
     </td>
     <td width="50%">
-      <img src="./img/nekonight_storm.json" />
+      <img src="./img/nekonight_wt_storm.jpg" />
     </td>
   </tr>
   <tr>
@@ -21,7 +21,7 @@ Now we also have a theme for Windows Terminal
   </tr>
   <tr>
     <td width="50%">
-      <img src="./img/nekonight_night.json" />
+      <img src="./img/nekonight_wt_night.jpg" />
     </td>
     <td width="50%">
       <img src="./img/nekonight_wt_day.jpg" />
