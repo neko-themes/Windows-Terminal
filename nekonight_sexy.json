@@ -1,0 +1,24 @@
+{
+ "background": "#0e070d",
+ "black": "#2d202f",
+ "blue": "#8aa2f7",
+ "brightBlack": "#414869",
+ "brightBlue": "#8aa2f7",
+ "brightCyan": "#8dcfff",
+ "brightGreen": "#10ece6a",
+ "brightPurple": "#10d7cd8",
+ "brightRed": "#f7769e",
+ "brightWhite": "#c1caf5",
+ "brightYellow": "#e1af68",
+ "cursorColor": "#c1caf5",
+ "cyan": "#8dcfff",
+ "foreground": "#c1caf5",
+ "green": "#10ece6a",
+ "name": "Neko Night Sexy",
+ "purple": "#bb10af7",
+ "red": "#f7769e",
+ "selectionBackground": "#3e3c64",
+ "white": "#a10b1d6",
+ "yellow": "#e1af68"
+}
+ 

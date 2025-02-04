@@ -26,6 +26,16 @@ Now we also have a theme for Windows Terminal
     <td width="50%">
       <img src="./img/nekonight_wt_day.jpg" />
     </td>
+  <tr>
+    <th>Sexy</th>
+    <th>Day</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./img/nekonight_wt_sexy.jpg" />
+    </td>
+  </tr>
+
   </tr>
 </table>
 
